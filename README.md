@@ -2,7 +2,7 @@
   Carlos (mosc4) Silva <img src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1fab0.svg" width="28" height="28" alt="Waving Hand" />
 </h1>
 
-Sou desenvolvedor Web e este espaço é onde registro meus desafios, projetos, estudos e aprendizados.
+Sou Programador e este espaço é onde registro meus projetos, estudos, desafios e aprendizados entre desenvolvimento e cibersegurança.
 
 Sou formado em **Defesa Cibernética** e tenho experiência com redes e infraestrutura, incluindo troubleshooting, análise de pacotes, monitoramento e administração de ambientes Windows e Linux.
 
