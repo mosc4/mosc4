@@ -6,7 +6,7 @@ Sou Programador e este espaço é onde registro meus projetos, estudos, desafios
 
 Sou formado em **Defesa Cibernética** e tenho experiência com redes e infraestrutura, incluindo troubleshooting, análise de pacotes, monitoramento e administração de ambientes Windows e Linux.
 
-Atualmente, venho estudando e me aprofundando em desenvolvimento web, com foco em **Node.js, TypeScript, NestJS, Express e PostgreSQL**. Tenho interesse principalmente na criação de APIs REST e aplicações web, utilizando também **Docker** e **Postman** para desenvolvimento, testes e validação de APIs.
+Atualmente, venho estudando lógica de programação e aprendendo mais sobre desenvolvimento, utilizando tecnologias como Node.js, TypeScript, JavaScript e PostgreSQL. Tenho interesse em desenvolver e dar manutenção em aplicações web e APIs.
 
 Gosto de entender como as aplicações funcionam, como podem ser exploradas e, principalmente, como podem ser desenvolvidas de forma mais segura.
 
