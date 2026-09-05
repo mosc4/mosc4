@@ -2,11 +2,13 @@
   Carlos (mosc4) Silva <img src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1fab0.svg" width="28" height="28" alt="Waving Hand" />
 </h1>
 
-Sou Desenvolvedor Backend e estudante de Bacharelado em Sistemas de Informação. Este espaço é onde compartilho parte da minha jornada na programação e tecnologia, reunindo meus projetos, desafios, estudos e aprendizados ao longo da minha formação.
+Sou Desenvolvedor Backend e estudante de Bacharelado em Sistemas de Informação, com foco no desenvolvimento de aplicações web, APIs REST e soluções backend.
 
-Atualmente, venho aprofundando meus conhecimentos em lógica de programação e desenvolvimento backend, trabalhando principalmente com Node.js, TypeScript, JavaScript e PostgreSQL. Tenho interesse no desenvolvimento e manutenção de aplicações web e APIs REST, com atenção especial à segurança de APIs e às boas práticas de desenvolvimento.
+Trabalho com Node.js, TypeScript, JavaScript e PostgreSQL, buscando desenvolver aplicações bem estruturadas, seguras e confiáveis. Tenho interesse em arquitetura backend, integração entre serviços, segurança de APIs e boas práticas de desenvolvimento.
+ 
+Gosto de entender como as soluções funcionam, escrevendo meus próprios códigos e colocando meus conhecimentos em prática por meio de projetos. Também analiso como aplicações podem ser exploradas, identifico vulnerabilidades e busco torná-las mais seguras.
 
-Durante meus estudos, gosto de escrever meus próprios códigos, entender a lógica por trás das soluções e aprender na prática. Busco compreender não apenas como uma aplicação funciona, mas também como ela pode ser explorada, quais vulnerabilidades podem surgir e como desenvolver soluções mais seguras e confiáveis.
+Aqui compartilho projetos, experiências, estudos e aprendizados relacionados à programação e tecnologia, documentando minha evolução como desenvolvedor.
 
 🔗 **TryHackMe:** tryhackme.com/p/mosc4  
 🧩 **HackerRank:** hackerrank.com/profile/carlosmosc4
