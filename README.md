@@ -2,13 +2,14 @@
   Carlos (mosc4) Silva <img src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1fab0.svg" width="28" height="28" alt="Waving Hand" />
 </h1>
 
-Sou Programador e este espaço é onde compartilho um pouco da minha jornada entre desenvolvimento e tecnologia. Aqui registro meus desafios, projetos, estudos e aprendizados.
+Sou Desenvolvedor Backend e estudante de Bacharelado em Sistemas de Informação. Este espaço é onde compartilho parte da minha jornada na programação e tecnologia, reunindo meus projetos, desafios, estudos e aprendizados ao longo da minha formação.
 
-Atualmente, venho estudando lógica de programação e aprendendo mais sobre desenvolvimento, utilizando tecnologias como Node.js, TypeScript, JavaScript e PostgreSQL. Tenho interesse em desenvolver e dar manutenção em aplicações web e APIs, com foco também em segurança de APIs.
+Atualmente, venho aprofundando meus conhecimentos em lógica de programação e desenvolvimento backend, trabalhando principalmente com Node.js, TypeScript, JavaScript e PostgreSQL. Tenho interesse no desenvolvimento e manutenção de aplicações web e APIs REST, com atenção especial à segurança de APIs e às boas práticas de desenvolvimento.
 
-Gosto de entender como as aplicações funcionam, como podem ser exploradas e, principalmente, como podem ser desenvolvidas de forma mais segura.
+Durante meus estudos, gosto de escrever meus próprios códigos, entender a lógica por trás das soluções e aprender na prática. Busco compreender não apenas como uma aplicação funciona, mas também como ela pode ser explorada, quais vulnerabilidades podem surgir e como desenvolver soluções mais seguras e confiáveis.
 
-💻 LinkedIn: linkedin.com/in/mosc4/
+🔗 **TryHackMe:** tryhackme.com/p/mosc4  
+🧩 **HackerRank:** hackerrank.com/profile/carlosmosc4
 
 ---
 
@@ -24,17 +25,4 @@ Gosto de entender como as aplicações funcionam, como podem ser exploradas e, p
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-### **> Security**
-
-<p>
-  <img src="https://img.shields.io/badge/TryHackMe-E21F27?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/Web%20Security-6E40C9?style=flat-square&logo=hackthebox&logoColor=white" alt="Web Security" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/ffuf-FF4500?style=flat-square" alt="ffuf" />
-  <img src="https://img.shields.io/badge/Gobuster-2C3E50?style=flat-square" alt="Gobuster" />
-  <img src="https://img.shields.io/badge/Nikto-34495E?style=flat-square" alt="Nikto" />
-  <img src="https://img.shields.io/badge/OWASP-3C873A?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/API%20Security-DC2626?style=flat-square&logo=owasp&logoColor=white" alt="API Security" />
 </p>
